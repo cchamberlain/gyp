@@ -1,6 +1,6 @@
 {
   "name": "gyp-core",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "description": "Fork of gyp project to handle windows specific issues",
   "main": "index.js",
   "directories": {
