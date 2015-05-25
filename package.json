@@ -1,5 +1,5 @@
 {
-  "name": "gyp",
+  "name": "gyp-core",
   "version": "0.1.0",
   "description": "Fork of gyp project to handle windows specific issues",
   "main": "index.js",
